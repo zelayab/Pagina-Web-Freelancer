@@ -9,9 +9,7 @@ Proyecto de aprendizaje realizado en el curso Desarrollo FrontEnd con React, gra
 
   #Usar y profundizar lo básico de HTML Y CSS
 
-  #Aprender a usar Styled Components
-
-  #Emplear Fetch API's y ProtoTypes
+ 
 
 ✔️ Tecnologías
 
